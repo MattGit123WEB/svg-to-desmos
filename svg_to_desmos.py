@@ -576,6 +576,6 @@ if __name__ == "__main__":
     # filename, width = "test-svg/equation-3.svg", 6000
     # filename, width = "test-svg/hermit_crab.svg", 2000
     # filename, width = "test-svg/chinese_paper_cutting.svg", 4000
-    filename, width = "test-svg/Python3-powered_hello-world.svg", 2000
+    filename, width = "C:\Users\matth\Downloads\artistic_axolotl_artwork (1).svg", 2000
     # filename, width = "test-svg/Frog_(2546)_-_The_Noun_Project.svg", 2000
     one_svg_to_desmos_merge(filename, width)
